@@ -67,14 +67,15 @@ button:hover{
         width: 90%;
         height: 60px;
         font-size: 25px;
-        margin: 15px auto;
+        margin: 28px;
+        margin-top: 30px;
     }
 
     .butt button {
-        width: 65px;
-        height: 45px;
+        width: 120px;
+        height: 50px;
         font-size: 20px;
-        margin-left: 5px;
+        margin-left: 24px;
     }
 }
 
